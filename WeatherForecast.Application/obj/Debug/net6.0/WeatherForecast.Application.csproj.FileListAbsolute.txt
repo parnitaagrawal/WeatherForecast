@@ -1,0 +1,15 @@
+C:\Users\parni\OneDrive\Desktop\StudyCSharp\WeatherForecast\WeatherForecast.Application\bin\Debug\net6.0\WeatherForecast.Application.deps.json
+C:\Users\parni\OneDrive\Desktop\StudyCSharp\WeatherForecast\WeatherForecast.Application\bin\Debug\net6.0\WeatherForecast.Application.dll
+C:\Users\parni\OneDrive\Desktop\StudyCSharp\WeatherForecast\WeatherForecast.Application\bin\Debug\net6.0\WeatherForecast.Application.pdb
+C:\Users\parni\OneDrive\Desktop\StudyCSharp\WeatherForecast\WeatherForecast.Application\bin\Debug\net6.0\WeatherForecast.Domain.dll
+C:\Users\parni\OneDrive\Desktop\StudyCSharp\WeatherForecast\WeatherForecast.Application\bin\Debug\net6.0\WeatherForecast.Domain.pdb
+C:\Users\parni\OneDrive\Desktop\StudyCSharp\WeatherForecast\WeatherForecast.Application\obj\Debug\net6.0\WeatherForecast.Application.csproj.AssemblyReference.cache
+C:\Users\parni\OneDrive\Desktop\StudyCSharp\WeatherForecast\WeatherForecast.Application\obj\Debug\net6.0\WeatherForecast.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parni\OneDrive\Desktop\StudyCSharp\WeatherForecast\WeatherForecast.Application\obj\Debug\net6.0\WeatherForecast.Application.AssemblyInfoInputs.cache
+C:\Users\parni\OneDrive\Desktop\StudyCSharp\WeatherForecast\WeatherForecast.Application\obj\Debug\net6.0\WeatherForecast.Application.AssemblyInfo.cs
+C:\Users\parni\OneDrive\Desktop\StudyCSharp\WeatherForecast\WeatherForecast.Application\obj\Debug\net6.0\WeatherForecast.Application.csproj.CoreCompileInputs.cache
+C:\Users\parni\OneDrive\Desktop\StudyCSharp\WeatherForecast\WeatherForecast.Application\obj\Debug\net6.0\WeatherForecast.Application.csproj.CopyComplete
+C:\Users\parni\OneDrive\Desktop\StudyCSharp\WeatherForecast\WeatherForecast.Application\obj\Debug\net6.0\WeatherForecast.Application.dll
+C:\Users\parni\OneDrive\Desktop\StudyCSharp\WeatherForecast\WeatherForecast.Application\obj\Debug\net6.0\refint\WeatherForecast.Application.dll
+C:\Users\parni\OneDrive\Desktop\StudyCSharp\WeatherForecast\WeatherForecast.Application\obj\Debug\net6.0\WeatherForecast.Application.pdb
+C:\Users\parni\OneDrive\Desktop\StudyCSharp\WeatherForecast\WeatherForecast.Application\obj\Debug\net6.0\ref\WeatherForecast.Application.dll
