@@ -44,7 +44,7 @@ For GetWeeklyweatherforecast- use the correct date format- "yyyy-MM-dd". No vali
 
 Initial EF migration needs to be executed manually 
 
-using the below command 
+using the below command - please go under WeatherForecast.Infrastructure folder to run the migration
 
 dotnet tool install --global 
 dotnet-ef
