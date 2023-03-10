@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XFBjX3tyBsIDh0K+wvQC66MN883+TguMrFnCdzptV9pFu4Zx9suWR+qPpzxWCWYYO282Tz5Ku84WoNAXe5RUsQ==",
+  "dgSpecHash": "t7JPMb9xpr3XHaHewzHQvlLffxVyeC1oYSVah1uQkcGQ7eS/12nHlVq1J1WDirxJvDYYIXs4Gof8RFJxCczs4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.API\\WeatherForecast.API.csproj",
+  "projectFilePath": "C:\\Charu\\weatherForecast\\WeatherForecast.API\\WeatherForecast.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\parni\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\parni\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

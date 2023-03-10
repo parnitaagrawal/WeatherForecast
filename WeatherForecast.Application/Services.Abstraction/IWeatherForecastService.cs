@@ -6,7 +6,7 @@ namespace WeatherForecast.Application.Services.Abstractions
     {
         Task<IEnumerable<WeatherForecastDto>> GetWeeklyWeatherForecastAsync(DateTime startDate);
 
-        Task<WeatherForecastDto> AddWeatherForecastAsync(WeatherForecastDto weatherForecastDto);
+        Task<WeatherForecastDto> AddWeatherForecastAsync(CreateWeatherForecastDto weatherForecastDto);
 
     }
 }

@@ -11,5 +11,12 @@ namespace WeatherForecast.API.Tests
             TemperatureInCelsius = 20,
             WeatherCondition = Domain.WeatherSummary.Warm
         };
+
+        public static CreateWeatherForecastDto createmockedWeatherForecastDto => new()
+        {
+            ForecastDate = DateTime.Now,
+            TemperatureInCelsius = 20,
+            WeatherCondition = Domain.WeatherSummary.Warm
+        };
     }
 }

@@ -15,17 +15,17 @@ namespace WeatherApplication.Tests
             WeatherCondition = WeatherForecast.Domain.WeatherSummary.Warm
         };
 
-        public static WeatherForecastDto mockedWeatherForecastErrorDto => new()
+        public static CreateWeatherForecastDto mockedWeatherForecastErrorDto => new()
         {
-            Id = 1,
+            
             ForecastDate = DateTime.Now.AddDays(-1),
             TemperatureInCelsius = 70,
             WeatherCondition = WeatherForecast.Domain.WeatherSummary.Warm
         };
 
-        public static WeatherForecastDto mockedWeatherForecastDto => new()
+        public static CreateWeatherForecastDto mockedWeatherForecastDto => new()
         {
-            Id = 1,
+            
             ForecastDate = DateTime.Now,
             TemperatureInCelsius = 30,
             WeatherCondition = WeatherForecast.Domain.WeatherSummary.Warm

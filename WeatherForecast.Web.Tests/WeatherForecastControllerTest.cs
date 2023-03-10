@@ -80,7 +80,7 @@ namespace WeatherForecast.API.Tests
             //Arrange
             var resultToReturn = MockedDTO.mockedWeatherForecastDto;
 
-            forecastService.Setup(x => x.AddWeatherForecastAsync(It.IsAny<WeatherForecastDto>())).ReturnsAsync(resultToReturn);
+            forecastService.Setup(x => x.AddWeatherForecastAsync(It.IsAny<CreateWeatherForecastDto>())).ReturnsAsync(resultToReturn);
             var controller = new WeatherForecastController(forecastService.Object);
 
             
@@ -100,12 +100,13 @@ namespace WeatherForecast.API.Tests
 
 
             var resultToReturn = MockedDTO.mockedWeatherForecastDto;
+            var request = MockedDTO.createmockedWeatherForecastDto;
 
-            forecastService.Setup(x => x.AddWeatherForecastAsync(It.IsAny<WeatherForecastDto>())).ReturnsAsync(resultToReturn);
+            forecastService.Setup(x => x.AddWeatherForecastAsync(It.IsAny<CreateWeatherForecastDto>())).ReturnsAsync(resultToReturn);
             var controller = new WeatherForecastController(forecastService.Object);
 
             //ACT
-            var result = await controller.AddWeatherForecastAsync(MockedDTO.mockedWeatherForecastDto) as OkObjectResult;
+            var result = await controller.AddWeatherForecastAsync(request) as OkObjectResult;
 
 
             //ASSERT

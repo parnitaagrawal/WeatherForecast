@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Application\\WeatherForecast.Application.csproj": {}
+    "C:\\Charu\\weatherForecast\\WeatherForecast.Application\\WeatherForecast.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Application\\WeatherForecast.Application.csproj": {
+    "C:\\Charu\\weatherForecast\\WeatherForecast.Application\\WeatherForecast.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Application\\WeatherForecast.Application.csproj",
+        "projectUniqueName": "C:\\Charu\\weatherForecast\\WeatherForecast.Application\\WeatherForecast.Application.csproj",
         "projectName": "WeatherForecast.Application",
-        "projectPath": "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Application\\WeatherForecast.Application.csproj",
+        "projectPath": "C:\\Charu\\weatherForecast\\WeatherForecast.Application\\WeatherForecast.Application.csproj",
         "packagesPath": "C:\\Users\\parni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Application\\obj\\",
+        "outputPath": "C:\\Charu\\weatherForecast\\WeatherForecast.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\parni\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Domain\\WeatherForecast.Domain.csproj": {
-                "projectPath": "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Domain\\WeatherForecast.Domain.csproj"
+              "C:\\Charu\\weatherForecast\\WeatherForecast.Domain\\WeatherForecast.Domain.csproj": {
+                "projectPath": "C:\\Charu\\weatherForecast\\WeatherForecast.Domain\\WeatherForecast.Domain.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Domain\\WeatherForecast.Domain.csproj": {
+    "C:\\Charu\\weatherForecast\\WeatherForecast.Domain\\WeatherForecast.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Domain\\WeatherForecast.Domain.csproj",
+        "projectUniqueName": "C:\\Charu\\weatherForecast\\WeatherForecast.Domain\\WeatherForecast.Domain.csproj",
         "projectName": "WeatherForecast.Domain",
-        "projectPath": "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Domain\\WeatherForecast.Domain.csproj",
+        "projectPath": "C:\\Charu\\weatherForecast\\WeatherForecast.Domain\\WeatherForecast.Domain.csproj",
         "packagesPath": "C:\\Users\\parni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Domain\\obj\\",
+        "outputPath": "C:\\Charu\\weatherForecast\\WeatherForecast.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\parni\\AppData\\Roaming\\NuGet\\NuGet.Config",

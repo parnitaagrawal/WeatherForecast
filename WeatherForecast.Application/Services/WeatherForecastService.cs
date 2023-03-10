@@ -16,19 +16,19 @@ namespace WeatherForecast.Application.Services
             _weatherForecastRepository = weatherForecastRepository;
         }
 
-        public async Task<WeatherForecastDto> AddWeatherForecastAsync(WeatherForecastDto weatherForecastDto)
+        public async Task<WeatherForecastDto> AddWeatherForecastAsync(CreateWeatherForecastDto createWeatherForecastDto)
         {
-            if (weatherForecastDto.ForecastDate < DateTime.Today)
+            if (createWeatherForecastDto.ForecastDate < DateTime.Today)
             {
                 throw new ForecastDateCannotBeInPastException();
             }
 
-            if (weatherForecastDto.TemperatureInCelsius > 60 || weatherForecastDto.TemperatureInCelsius < -60)
+            if (createWeatherForecastDto.TemperatureInCelsius > 60 || createWeatherForecastDto.TemperatureInCelsius < -60)
             {
                 throw new TemperatureShouldBeBetweenPlusMinus60();
             }
 
-            var weatherForecast = weatherForecastDto.Adapt<WeatherForecasts>();
+            var weatherForecast = createWeatherForecastDto.Adapt<WeatherForecasts>();
 
             await _weatherForecastRepository.AddWeatherForecastAsync(weatherForecast);
             return weatherForecast.Adapt<WeatherForecastDto>();

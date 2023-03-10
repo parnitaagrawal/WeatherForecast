@@ -3823,11 +3823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.API\\WeatherForecast.API.csproj",
+      "projectUniqueName": "C:\\Charu\\weatherForecast\\WeatherForecast.API\\WeatherForecast.API.csproj",
       "projectName": "WeatherForecast.API",
-      "projectPath": "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.API\\WeatherForecast.API.csproj",
+      "projectPath": "C:\\Charu\\weatherForecast\\WeatherForecast.API\\WeatherForecast.API.csproj",
       "packagesPath": "C:\\Users\\parni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.API\\obj\\",
+      "outputPath": "C:\\Charu\\weatherForecast\\WeatherForecast.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\parni\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3844,11 +3844,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Application\\WeatherForecast.Application.csproj": {
-              "projectPath": "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Application\\WeatherForecast.Application.csproj"
+            "C:\\Charu\\weatherForecast\\WeatherForecast.Application\\WeatherForecast.Application.csproj": {
+              "projectPath": "C:\\Charu\\weatherForecast\\WeatherForecast.Application\\WeatherForecast.Application.csproj"
             },
-            "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Infrastructure\\WeatherForecast.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Infrastructure\\WeatherForecast.Infrastructure.csproj"
+            "C:\\Charu\\weatherForecast\\WeatherForecast.Infrastructure\\WeatherForecast.Infrastructure.csproj": {
+              "projectPath": "C:\\Charu\\weatherForecast\\WeatherForecast.Infrastructure\\WeatherForecast.Infrastructure.csproj"
             }
           }
         }

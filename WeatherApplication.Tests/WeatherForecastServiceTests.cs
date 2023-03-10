@@ -85,8 +85,7 @@ namespace WeatherApplication.Tests
 
             //ASSERT
             result.Should().NotBeNull();
-            result.Should().BeOfType<WeatherForecastDto>();
-            result.Id.Should().BeGreaterThanOrEqualTo(request.Id);
+            result.Should().BeOfType<WeatherForecastDto>();            
             result.WeatherCondition.Should().Be(request.WeatherCondition);
             result.TemperatureInCelsius.Should().Be(request.TemperatureInCelsius);
         }

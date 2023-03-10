@@ -31,14 +31,14 @@ namespace WeatherForecast.API.Controllers
         }
 
         [HttpPost("AddWeatherForecast")]
-        public async Task<IActionResult> AddWeatherForecastAsync(WeatherForecastDto weatherForecastDto)
+        public async Task<IActionResult> AddWeatherForecastAsync(CreateWeatherForecastDto createweatherForecastDto)
         {
-            if(weatherForecastDto == null)
+            if(createweatherForecastDto == null)
             {
                 throw new ApiException("request object cannot be null");
             }
 
-            var result = await _weatherForecastService.AddWeatherForecastAsync(weatherForecastDto);
+            var result = await _weatherForecastService.AddWeatherForecastAsync(createweatherForecastDto);
 
             return Ok(result);
 

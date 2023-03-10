@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4iMd4MgEoBeRPfT6UtuW268D6j33aX8x+vlVCixknGG62Jz9fGNVzM2nogpWcF5bPIJ655AmguTlg6ez/etUXg==",
+  "dgSpecHash": "4uYIIcjmLbY6joLs+NhvYc6mOUYLVjKFi+MxdzFJDsPtAC/bnEhnIb2u6xWQHa6sy55kf8YYn2sreH49ZVr7cA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\parni\\OneDrive\\Desktop\\StudyCSharp\\WeatherForecast\\WeatherForecast.Application\\WeatherForecast.Application.csproj",
+  "projectFilePath": "C:\\Charu\\weatherForecast\\WeatherForecast.Application\\WeatherForecast.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\parni\\.nuget\\packages\\fluentassertions\\6.10.0\\fluentassertions.6.10.0.nupkg.sha512",
     "C:\\Users\\parni\\.nuget\\packages\\mapster\\7.3.0\\mapster.7.3.0.nupkg.sha512",
