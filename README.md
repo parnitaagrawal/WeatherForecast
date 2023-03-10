@@ -40,7 +40,7 @@ There is no model validation included on the Dtos.
 The solution does not Include any Infrastructure as a code at the moment.
 The solution depends on SQL express to be installed on the local machine.
 
-For GetWeeklyweatherforecast- use the correct date format- "yyyy-MM-dd". No validation done for date formating.
+For GetWeeklyweatherforecast- use the correct date format- "yyyy-MM-dd". No validation done for date formating. When there is no data for search criteria, we get empty result.
 
 Initial EF migration needs to be executed manually 
 
